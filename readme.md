@@ -44,3 +44,6 @@ Zjisti průměrný plat v různých odděleních.
 
 ### 4
 Jaký je rozsah (rozdíl mezi nejvyšším a nejnižším platem) v každém oddělení?
+
+### 5
+Jaký je průměrný věk zaměstnanců v jednotlivých odděleních?
