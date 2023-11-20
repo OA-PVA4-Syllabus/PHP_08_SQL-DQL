@@ -1,6 +1,8 @@
 # PVA4 - Programování a vývoj aplikací
 ## Lekce 08: SQL Select
 
+Naprogramované dotazy uložte do souboru `reseni.sql`
+
 ## Obsah
 
 
